@@ -16,7 +16,7 @@ The dataFetcher.py uses yfinance for access to the latest stock data stored on Y
 1. The dataFetcher.py runs on Python 3.x, and it requires internet connection.
 2. Make sure you have modules listed in the Requirement file installed on your Python.
 
-No installation needed. Simply fork the dataFetcher-stock directory to your computer, and it's ready to go.
+No installation needed. Simply clone the dataFetcher-stock directory to your computer, and it's ready to go.
 
 ## Usage
 
