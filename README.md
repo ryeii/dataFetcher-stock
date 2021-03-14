@@ -2,7 +2,7 @@
 
 This repository contains an easy-to-use, GUI included python executable file that fetch stock data for you (and for study use).
 
-The dataFetcher.py uses yfinance for access to the latest stock data stored on Yahoo Finance and download the data series on to your computer as csv files, which you can then use for graphing, cross-comparison, machine learning, etc. Have fun!
+The dataFetcher.py uses yfinance for access to the latest stock data stored on Yahoo Finance and download the data series to your computer as csv files, which you can then use for graphing, cross-comparison, machine learning, etc. Have fun!
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ The dataFetcher.py uses yfinance for access to the latest stock data stored on Y
 1. The dataFetcher.py runs on Python 3.x, and it requires internet connection.
 2. Make sure you have modules listed in the Requirement file installed on your Python.
 
-No installation needed. Simply fork the dataFetcher-stock directory on to your computer, and it's ready to go.
+No installation needed. Simply fork the dataFetcher-stock directory to your computer, and it's ready to go.
 
 ## Usage
 
